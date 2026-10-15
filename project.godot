@@ -1,0 +1,15 @@
+config_version=5
+[application]
+config/name="Ehternum – Eine neue Heimat"
+run/main_scene="res://Scenes/Main.tscn"
+config/features=PackedStringArray("4.4", "C#", "GL Compatibility")
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=800
+window/stretch/mode="canvas_items"
+[dotnet]
+project/assembly_name="Ehternum"
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.10,0.16,0.17,1)

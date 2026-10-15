@@ -1,0 +1,107 @@
+[
+  {
+    "id": "food",
+    "name": "Nahrung",
+    "output": "food",
+    "amount": 1,
+    "cost": {
+      "universerium": 2
+    },
+    "energy": 3,
+    "seconds": 2
+  },
+  {
+    "id": "water",
+    "name": "Wasser",
+    "output": "water",
+    "amount": 1,
+    "cost": {
+      "universerium": 1
+    },
+    "energy": 2,
+    "seconds": 1.5
+  },
+  {
+    "id": "chest",
+    "name": "Lagerkiste",
+    "output": "chest",
+    "amount": 1,
+    "cost": {
+      "universerium": 8
+    },
+    "energy": 4,
+    "seconds": 3
+  },
+  {
+    "id": "laser2",
+    "name": "Fokuslinse",
+    "output": "laser2",
+    "amount": 1,
+    "cost": {
+      "universerium": 14,
+      "ehternum": 4
+    },
+    "energy": 10,
+    "seconds": 5
+  },
+  {
+    "id": "medicine",
+    "name": "Medizin",
+    "output": "medicine",
+    "amount": 1,
+    "cost": {
+      "universerium": 4
+    },
+    "energy": 6,
+    "seconds": 3
+  },
+  {
+    "id": "cell",
+    "name": "Energiekern",
+    "output": "cell",
+    "amount": 1,
+    "cost": {
+      "universerium": 12,
+      "elekrerium": 5
+    },
+    "energy": 8,
+    "seconds": 5
+  },
+  {
+    "id": "suit",
+    "name": "Schutzanzug",
+    "output": "suit",
+    "amount": 1,
+    "cost": {
+      "universerium": 20,
+      "ehternum": 6
+    },
+    "energy": 12,
+    "seconds": 6
+  },
+  {
+    "id": "garden",
+    "name": "Habitatgarten",
+    "output": "garden",
+    "amount": 1,
+    "cost": {
+      "universerium": 30,
+      "ehternum": 8
+    },
+    "energy": 15,
+    "seconds": 8
+  },
+  {
+    "id": "beacon",
+    "name": "Notrufsender",
+    "output": "beacon",
+    "amount": 1,
+    "cost": {
+      "universerium": 40,
+      "ehternum": 15,
+      "elekrerium": 10
+    },
+    "energy": 20,
+    "seconds": 10
+  }
+]

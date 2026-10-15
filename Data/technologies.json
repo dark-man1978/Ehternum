@@ -1,0 +1,86 @@
+[
+  {
+    "id": "supply",
+    "name": "Notversorgung",
+    "memory": 0,
+    "requires": [],
+    "cost": {},
+    "recipes": [
+      "food",
+      "water",
+      "chest"
+    ]
+  },
+  {
+    "id": "tools",
+    "name": "Werkzeugarchiv",
+    "memory": 1,
+    "requires": [
+      "supply"
+    ],
+    "cost": {
+      "ehternum": 8
+    },
+    "recipes": [
+      "laser2"
+    ]
+  },
+  {
+    "id": "medical",
+    "name": "Medizinarchiv",
+    "memory": 1,
+    "requires": [
+      "supply"
+    ],
+    "cost": {
+      "ehternum": 8
+    },
+    "recipes": [
+      "medicine"
+    ]
+  },
+  {
+    "id": "power",
+    "name": "Energiearchiv",
+    "memory": 2,
+    "requires": [
+      "tools"
+    ],
+    "cost": {
+      "ehternum": 12
+    },
+    "recipes": [
+      "cell"
+    ]
+  },
+  {
+    "id": "habitat",
+    "name": "Habitatarchiv",
+    "memory": 2,
+    "requires": [
+      "medical"
+    ],
+    "cost": {
+      "ehternum": 12
+    },
+    "recipes": [
+      "suit",
+      "garden"
+    ]
+  },
+  {
+    "id": "rescue",
+    "name": "Kommunikationsarchiv",
+    "memory": 3,
+    "requires": [
+      "power",
+      "habitat"
+    ],
+    "cost": {
+      "ehternum": 18
+    },
+    "recipes": [
+      "beacon"
+    ]
+  }
+]

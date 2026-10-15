@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ehternum",
+    "name": "Ehternum",
+    "kind": "memory",
+    "stack": 50
+  },
+  {
+    "id": "elekrerium",
+    "name": "Elekrerium",
+    "kind": "fuel",
+    "stack": 50
+  },
+  {
+    "id": "universerium",
+    "name": "Universerium",
+    "kind": "material",
+    "stack": 50
+  },
+  {
+    "id": "food",
+    "name": "Nahrung",
+    "kind": "food",
+    "stack": 50
+  },
+  {
+    "id": "water",
+    "name": "Wasser",
+    "kind": "water",
+    "stack": 50
+  },
+  {
+    "id": "medicine",
+    "name": "Medizin",
+    "kind": "medicine",
+    "stack": 50
+  },
+  {
+    "id": "chest",
+    "name": "Lagerkiste",
+    "kind": "chest",
+    "stack": 50
+  },
+  {
+    "id": "laser2",
+    "name": "Fokuslinse",
+    "kind": "laser",
+    "stack": 50
+  },
+  {
+    "id": "suit",
+    "name": "Schutzanzug",
+    "kind": "suit",
+    "stack": 50
+  },
+  {
+    "id": "cell",
+    "name": "Energiekern",
+    "kind": "cell",
+    "stack": 50
+  },
+  {
+    "id": "garden",
+    "name": "Habitatgarten",
+    "kind": "garden",
+    "stack": 50
+  },
+  {
+    "id": "beacon",
+    "name": "Notrufsender",
+    "kind": "beacon",
+    "stack": 50
+  }
+]
